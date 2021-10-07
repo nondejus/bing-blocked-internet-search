@@ -1,1 +1,4 @@
 # bing-blocked-internet-search
+
+This site can’t be reached
+The webpage at https://www.bing.com/search?q=silicon+graphics+indigo might be temporarily down or it may have moved permanently to a new web address.
